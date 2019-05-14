@@ -7,5 +7,6 @@ public class Main {
         File plik;
         plik = new File("D:/Biblioteka/src/Zadanie/Dane.xml");
         Biblioteka b1 = new Biblioteka(plik);
+        b1.showBooks();
     }
 }

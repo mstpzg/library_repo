@@ -1,23 +1,20 @@
 <?xml version = "1.0"?>
-<class>
-    <student rollno = "393">
-        <firstname>dinkar</firstname>
-        <lastname>kad</lastname>
-        <nickname>dinkar</nickname>
-        <marks>85</marks>
-    </student>
+<library>
+  <book>
+    <isbn>234234</isbn>
+    <title>Pan Tadeusz</title>
+    <bookLimit>5</bookLimit>
+  </book>
 
-    <student rollno = "493">
-        <firstname>Vaneet</firstname>
-        <lastname>Gupta</lastname>
-        <nickname>vinni</nickname>
-        <marks>95</marks>
-    </student>
+  <book>
+    <isbn>098239</isbn>
+    <title>Miasteczko Salem</title>
+    <bookLimit>10</bookLimit>
+  </book>
 
-    <student rollno = "593">
-        <firstname>jasvir</firstname>
-        <lastname>singn</lastname>
-        <nickname>jazz</nickname>
-        <marks>90</marks>
-    </student>
-</class>
+  <book>
+    <isbn>121212</isbn>
+    <title>Helisa</title>
+    <bookLimit>3</bookLimit>
+  </book>
+</library>
